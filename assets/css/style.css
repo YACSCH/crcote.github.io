@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    font-family: "Raleway", sans-serif;
+}
+
+.my-name {
+    display: block;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.principal-image {
+    margin-top: 100px;
+    width: 380px;
+    height: 400px;
+    border-radius:380px;
+}
+
