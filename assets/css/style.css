@@ -13,5 +13,6 @@ body {
     width: 380px;
     height: 400px;
     border-radius:380px;
+    object-fit: cover;
 }
 
